@@ -1,0 +1,25 @@
+{"saved schedule": [
+    {"appointments": []},
+    {"tasks": []},
+    {"habit trackers": [
+        {
+            "name": "Homework",
+            "times complete": [{"time": 1606170787235}]
+        },
+        {
+            "name": "Drink water",
+            "times complete": [
+                {"time": 1605918563254},
+                {"time": 1606170788558}
+            ]
+        },
+        {
+            "name": "Cry",
+            "times complete": [{"time": 1605918563909}]
+        },
+        {
+            "name": "Test Habit",
+            "times complete": [{"time": 1606170801965}]
+        }
+    ]}
+]}
